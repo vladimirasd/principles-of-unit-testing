@@ -4,11 +4,11 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class BrachCoverage {
+public class BranchCoverage {
+
     /*
     Тесты для методов
      */
-
     @Test
     void branchCoverageTest(){
         assertEquals(false, testMethod1(20));
