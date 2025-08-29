@@ -5,7 +5,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class CodeCoverage {
 
     /*
-    Казалось бы
+    Тесты для методов
      */
 
     @Test
